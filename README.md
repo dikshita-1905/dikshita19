@@ -1,3 +1,4 @@
+![logo](https://github.com/dikshita-1905/dikshita19/blob/main/DIKSHITA%20PADTE.png)
 <h1 align="center">Hi 👋, I'm Dikshita Padte</h1>
 <h3 align="center">A passionate Data Science and Machine Learning enthusiast. I wish to pursue Data Science as my career and would wish to collaborate on various Data Science Projects.</h3>
  <img align="right" alt="coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
